@@ -17,3 +17,7 @@ That's nearly quarter of a million questions!
    * [everyquestion-corrected-unique-140-shuffled-1M.json](everyquestion-corrected-unique-140-shuffled-1M.json) - the same but shuffled and reduced to about 1 megabyte
  * [everyquestion-corrected-unique-129.json](everyquestion-corrected-unique-129.json) - the same but nothing longer than 129 characters
    * [everyquestion-corrected-unique-129-shuffled-1M.json](everyquestion-corrected-unique-129-shuffled-1M.json) - the same but shuffled and reduced to about 1 megabyte
+
+[![](https://abs.twimg.com/favicons/favicon.ico)](https://twitter.com/gutenquestions) This data is used by [@gutenquestions](https://twitter.com/gutenquestions) and [@gutenquiz](https://twitter.com/gutenquiz) and hosted by the wonderful [![](http://cheapbotsdonequick.com/favicon.ico) Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) (source: [gutenquestions](http://cheapbotsdonequick.com/source/gutenquestions), [gutenquiz](http://cheapbotsdonequick.com/source/gutenquiz)). 
+
+
